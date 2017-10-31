@@ -11,6 +11,23 @@ For   GDollar  HOME  Page  URL: https://jemin777.github.io/GDollarTutorial.githu
   
   
   
+  
+  ** GDollar Programming Language(GDollar) MAJOR FEATURES:**
+
+<li>It is OpenSource.
+<li>Research
+<li>Compiler Design using JSLASH to Create a mini compiler with in a short period of time.
+<li>Security
+<li>Interactive with C# P.L or C# Technology
+<li>Intermediate Encoder
+<li>GDollar Advanced Concepts
+<li>Code obfuscation
+<li>Used in Software Development
+<li>It Prevent Code Stealing.
+<li>Focused on Prototype software.
+<li>Mainly used to create datastructures as fast as possible.
+
+  
  ABOUT  GDollar  Professional  Software
  ======================================
  
