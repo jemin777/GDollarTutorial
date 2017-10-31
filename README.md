@@ -18,5 +18,5 @@ GDollar  Programming  Language  Professional  code: WRIT001-GDollarpl-SIT-001
 
 Extension  :  .Gdollar
 
-Generates:  .GDollar  object file, .exe, .dll  for  futhure  use...
+Generates:  .GDollar  object file, .exe, .dll, .C$ intermediate code  for  futhure  use...
 
