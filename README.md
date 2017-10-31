@@ -8,7 +8,11 @@ GDOLLAR Programming Language is focused on research ,Datastuctures, obfuscation,
 
 
 <br>
-For   GDollar  HOME  Page  kindly  click  here  <a href src= "https://jemin777.github.io/GDollarTutorial/Home"  >GDollar Home Page  </a>
+For   GDollar  HOME  Page  kindly  click  here  
+
+<a href src= "https://jemin777.github.io/GDollarTutorial/Home"  >
+  
+  GDollar Home Page  </a>
 
 
 
